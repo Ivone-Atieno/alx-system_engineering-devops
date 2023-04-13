@@ -1,0 +1,3 @@
+#!/bin/bashcase y in
+
+ls -xamp
